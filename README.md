@@ -1,4 +1,4 @@
-# Santosh Resume Project
+# Santosh-portfolio
 
 This is my personal resume webpage created using only HTML. It includes:
 
